@@ -101,6 +101,10 @@ The project aims to generate actionable business insights through data cleaning,
 
 ---
 
+### Top Stores
+
+![Top Stores](images/top_stores.png)
+
 ## 📂 Project Structure
 
 ```bash

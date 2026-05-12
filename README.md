@@ -124,7 +124,7 @@ Quantium-Retail-Analytics/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/harshithaadicherla10/Quantium-Retail-Analytics.git
+[git clone https://github.com/harshithaadicherla10/Quantium-Retail-Analytics.git](https://github.com/harshithaadicherla10/quantium-retail-analytics.git)
 ```
 
 ### 2️⃣ Install Dependencies

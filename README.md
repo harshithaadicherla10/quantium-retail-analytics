@@ -1,4 +1,4 @@
-# Quantium Retail Analytics
+# Quantium Retail Analytics Project
 
 ## 🎯 Problem Statement
 
